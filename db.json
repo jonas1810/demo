@@ -1,6 +1,6 @@
 {
   "product": [
-    { "id": 1, "name": "Tuborg Classic", "description:" "classisk øl med fremragende smag", "image": "https://netpris.dk/media/catalog/product/cache/14/image/330x/9df78eab33525d08d6e5fb8d27136e95/t/u/tuborg_classic_33cl_d_se_-__05740600998523.jpg", "price":"30" }
+    { "id": 1, "name": "Tuborg Classic", "description": "classisk øl med fremragende smag", "image": "https://netpris.dk/media/catalog/product/cache/14/image/330x/9df78eab33525d08d6e5fb8d27136e95/t/u/tuborg_classic_33cl_d_se_-__05740600998523.jpg", "price":"30" }
   ],
   "rating": [
     { "id": 1, "product_id": 1, "rating": 5 }
