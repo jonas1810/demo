@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "product": [
+    { "id": 1, "name": "Tuborg Classic", "description:" "classisk øl med fremragende smag", "image": "https://netpris.dk/media/catalog/product/cache/14/image/330x/9df78eab33525d08d6e5fb8d27136e95/t/u/tuborg_classic_33cl_d_se_-__05740600998523.jpg", "price":"30" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "rating": [
+    { "id": 1, "product_id": 1, "rating": 5 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
